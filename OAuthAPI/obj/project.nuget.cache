@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sxcdb7C9ow956F6yB7RiruvLk9ujqWXKMQlMV8ePP3No6AdxqQdbdt3OsJpH8Gn07afHztFt0hBMZfYgxDOCeA==",
+  "success": true,
+  "projectFilePath": "/Users/tayho/sample/oauth/Basic/OAuthAPI/OAuthAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/tayho/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/tayho/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tayho/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/tayho/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/tayho/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/tayho/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

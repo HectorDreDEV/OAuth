@@ -1,0 +1,14 @@
+﻿@model string
+@{
+    var url = $"/OAuth/Authorize{Model}";
+}
+
+<form class="form-horizontal" action="@url" method="post">
+    <div class="form-group">
+        <label class="control-label">User</label>
+        <input asp-for="username" class="form-control" type="text" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Submit" />
+    </div>
+</form>
